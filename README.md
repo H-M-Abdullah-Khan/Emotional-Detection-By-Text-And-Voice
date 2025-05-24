@@ -55,7 +55,7 @@ python app.py
 6. **Open your web browser** and go to:
 
 ```
-ttp://127.0.0.1:5000
+http://127.0.0.1:5000
 ```
 
 7. **Use the app**:
