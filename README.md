@@ -20,6 +20,10 @@ Follow these instructions to get a copy of the project running on your local mac
 ### Installation and Running
 
 1. **Clone or download the repository** to your local machine.
+     **Run the following command** to clone the repository:
+    ``` bash
+    git clone https://github.com/H-M-Abdullah-Khan/Emotional-Detection-By-Text-And-Voice/
+    ```
 
 2. **Navigate to the project directory** in your terminal or command prompt.
 
